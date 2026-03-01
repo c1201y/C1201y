@@ -19,7 +19,8 @@
 如果你有任何问题或想聊天，欢迎通过以下方式联系我：
 
 - 📧 邮箱: [cyan.01@outlook.com](mailto:cyan.01@outlook.com)
-- 🌐 网站: (https://c1201y.github.io)或(https://www.cyan01.qzz.io)
+- 🌐 网站: (https://c1201y.github.io)
+-         或(https://www.cyan01.qzz.io)
 
 
 感谢你花时间访问我的 GitHub 主页！如果你喜欢我的项目或文章，欢迎给我一个 ⭐ 或者关注我，我会继续分享更多有趣的内容。
